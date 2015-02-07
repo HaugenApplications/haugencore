@@ -1,0 +1,5 @@
+D:\Source\Projects\HaugenApps\HaugenApps.HaugenCore\src\HaugenApps.HaugenCore\HaugenApps.HaugenCore\bin\Release\HaugenApps.HaugenCore.dll
+D:\Source\Projects\HaugenApps\HaugenApps.HaugenCore\src\HaugenApps.HaugenCore\HaugenApps.HaugenCore\bin\Release\HaugenApps.HaugenCore.pdb
+D:\Source\Projects\HaugenApps\HaugenApps.HaugenCore\src\HaugenApps.HaugenCore\HaugenApps.HaugenCore\obj\Release\HaugenApps.HaugenCore.csprojResolveAssemblyReference.cache
+D:\Source\Projects\HaugenApps\HaugenApps.HaugenCore\src\HaugenApps.HaugenCore\HaugenApps.HaugenCore\obj\Release\HaugenApps.HaugenCore.dll
+D:\Source\Projects\HaugenApps\HaugenApps.HaugenCore\src\HaugenApps.HaugenCore\HaugenApps.HaugenCore\obj\Release\HaugenApps.HaugenCore.pdb
